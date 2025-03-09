@@ -1,7 +1,8 @@
-Personal Finance Manager (MERN)
+#Personal Finance Manager (MERN)
 A full-stack web application for managing personal expenses, built using the MERN stack (MongoDB, Express.js, React.js, Node.js).
 
 🚀 Features
+
 ✅ Add, edit, delete, and view expenses
 ✅ Real-time expense tracking
 ✅ Categorized expense management
